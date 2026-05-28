@@ -248,13 +248,7 @@ Visual references: Zillow Pro, Bloomberg property analytics, modern proptech pla
 ```
 irishhomeiq/
 ├── index.html                    # Platform entry point, landing page and dashboard
-├── assets/
-│   ├── screenshots/              # Platform preview images
-│   └── data/
-│       ├── transactions.csv      # 280,125 PPR transactions 2020 to 2024
-│       ├── affordability.csv     # Price-to-income ratios, wage data
-│       ├── supply_demand.csv     # Completions vs demand, 26 counties
-│       └── investment_scores.csv # Composite investment model output
+├── screenshots/              # Platform preview images
 ├── sql/
 │   ├── 01_schema.sql             # PostgreSQL schema and indexes
 │   ├── 02_market_analysis.sql    # Price trends, YoY growth, Dublin vs ROI

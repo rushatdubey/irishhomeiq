@@ -4,7 +4,7 @@
 
 **280,125 real transactions · 26 counties · 2020 to 2024**
 
-[Live Demo](https://github.com/rushatdubey/irishhomeiq) · [GitHub](https://github.com/rushatdubey/irishhomeiq) · [LinkedIn](https://linkedin.com/in/rushat)
+[Live Demo](https://irishhomeiq.vercel.app) · [GitHub](https://github.com/rushatdubey/irishhomeiq) · [LinkedIn](https://linkedin.com/in/rushat)
 
 ---
 
@@ -16,7 +16,15 @@ The platform is built as a fully custom web product: neumorphic UI, animated lan
 
 ## Live Demo
 
-**Coming Soon.** Hosted version in progress.
+🔗 Live Platform: https://irishhomeiq.vercel.app
+
+Explore:
+- National property price trends across all 26 Irish counties
+- Dublin postcode intelligence (D01–D24)
+- Mortgage affordability stress analysis
+- Housing supply deficit modelling
+- Investment scoring and yield analytics
+- Interactive dashboards built with Chart.js
 
 To run locally, clone the repo and open `index.html` in any modern browser. No build step, no dependencies, no server required.
 

@@ -4,7 +4,7 @@
 
 **280,125 real transactions · 26 counties · 2020 to 2024**
 
-[Live Demo](https://irishhomeiq.vercel.app) · [GitHub](https://github.com/rushatdubey/irishhomeiq) · [LinkedIn](https://linkedin.com/in/rushat)
+[Live](https://irishhomeiq.vercel.app) · [GitHub](https://github.com/rushatdubey/irishhomeiq) · [LinkedIn](https://linkedin.com/in/rushat)
 
 ---
 

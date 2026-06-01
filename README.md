@@ -4,7 +4,7 @@
 
 **280,125 real transactions · 26 counties · 2020 to 2024**
 
-[Live Demo](https://github.com/rushatdubey/irishhomeiq) · [GitHub](https://github.com/rushatdubey/irishhomeiq) · [LinkedIn](https://linkedin.com/in/rushat)
+[Live Demo](https://irishhomeiq.vercel.app) · [GitHub](https://github.com/rushatdubey/irishhomeiq) · [LinkedIn](https://linkedin.com/in/rushat)
 
 ---
 
@@ -16,7 +16,7 @@ The platform is built as a fully custom web product with an editorial-magazine l
 
 ## Live Demo
 
-**Coming Soon.** Hosted version in progress.
+https://irishhomeiq.vercel.app
 
 To run locally, clone the repo and open `index.html` in any modern browser. No build step, no dependencies, no server required.
 
@@ -30,26 +30,8 @@ open index.html
 
 ## Platform Preview
 
-### Landing Hero
-![Landing Hero](screenshots/landing1a.png)
-
-### Platform Modules
-![Platform Modules](screenshots/landing1b.png)
-
-### Market Pulse Dashboard
-![Market Pulse Dashboard](screenshots/market_pulse.png)
-
-### Affordability and Mortgage Stress
-![Affordability Tab](screenshots/affordability.png)
-
-### Investment Signals
-![Investment Signals](screenshots/investment.png)
-
-### Dublin Postcode Intelligence
-![Dublin Intelligence](screenshots/dublin_intel.png)
-
-### Supply Gap Analysis
-![Supply Gap Analysis](screenshots/supply_gap.png)
+### Landing Page
+![Landing](preview/landing.png)
 
 ---
 
@@ -253,8 +235,7 @@ Visual references: Bloomberg property analytics, editorial financial briefings, 
 ```
 irishhomeiq/
 ├── index.html                    # Platform entry point, landing page and dashboard
-├── assets/
-│   ├── screenshots/              # Platform preview images
+ ──   preview/              # Platform preview image
 │   └── data/
 │       ├── transactions.csv      # 280,125 PPR transactions 2020 to 2024
 │       ├── affordability.csv     # Price-to-income ratios, wage data

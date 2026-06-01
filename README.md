@@ -235,12 +235,7 @@ Visual references: Bloomberg property analytics, editorial financial briefings, 
 ```
 irishhomeiq/
 ├── index.html                    # Platform entry point, landing page and dashboard
- ──   preview/              # Platform preview image
-│   └── data/
-│       ├── transactions.csv      # 280,125 PPR transactions 2020 to 2024
-│       ├── affordability.csv     # Price-to-income ratios, wage data
-│       ├── supply_demand.csv     # Completions vs demand, 26 counties
-│       └── investment_scores.csv # Composite investment model output
+├──preview/              # Platform preview image 
 ├── sql/
 │   ├── 01_schema.sql             # PostgreSQL schema and indexes
 │   ├── 02_market_analysis.sql    # Price trends, YoY growth, Dublin vs ROI
